@@ -1,4 +1,3 @@
-# cherry-pick-by-author
 # 🧰 Cherry-Pick by Author
 
 A lightweight Bash script to cherry-pick commits authored by a specific person after a given date from a specified Git branch — with safe conflict handling and resumable execution.
